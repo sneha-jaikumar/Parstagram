@@ -28,13 +28,18 @@ Launching App:
 
 ![](https://i.imgur.com/WHPQ26M.gif)
 
+
+
 Logging In:
 
 ![](https://i.imgur.com/SwFCWRo.gif)
 
+
+
 Choosing a Picture:
 
 ![](https://i.imgur.com/XRwdHqs.gif)
+
 
 
 Posting Picture:
@@ -42,9 +47,11 @@ Posting Picture:
 ![](https://i.imgur.com/BwSzr4K.gif)
 
 
+
 Locating Picture:
 
 ![](https://i.imgur.com/mYySQit.gif)
+
 
 
 Signing Up:
