@@ -29,6 +29,7 @@ Staying Logged In (_This GIF was there to fulfill the 'user staying logged in ac
 ![](https://i.imgur.com/TdMvB0A.gif)
 
 _NEW GIF:
+
 ![](https://i.imgur.com/h7zWnTk.gif)
 
 
