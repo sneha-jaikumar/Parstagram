@@ -24,11 +24,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Staying Logged In (_This GIF was there to fulfill the 'user staying logged in across restarts' criteria. For more clarity, another GIF is posted below)_:
+Staying Logged In (_This GIF was there to fulfill the 'user staying logged in across restarts' criteria. For more clarity, another GIF is posted below this one)_:
 
 ![](https://i.imgur.com/TdMvB0A.gif)
 
-_NEW GIF:
+_NEW GIF:_
 
 ![](https://i.imgur.com/h7zWnTk.gif)
 
